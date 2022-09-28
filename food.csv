@@ -1,0 +1,193 @@
+,Food_Name,Price
+0,Chicken Fried Rice + Chilly Chicken + Coke,379
+1,2 - Chicken Fried Rice + Coke,369
+2,Chicken Fried Rice + Chicken Briyani + Coke,379
+3,2- Chicken Briyani+coke,379
+4,Egg Omlette,30
+5,Masala(parupu) Vadai,18
+6,Medhu Vadai 1pc,15
+7,Onion Podi Dhosa,70
+8,Egg Dhosai,60
+9,Podii Dhosa,60
+10,Onion Dhosa,60
+11,Egg Oothapam,49
+12,Ghee Oothapam(plain),53
+13,Podi Oothapam,43
+14,Onion Podi Oothapam,63
+15,Onion Oothapam,55
+16,Pongal,45
+17,Poori(2pcs),49
+18,Set Dhosa,49
+19,Plain Dhosa,50
+20,Butter Naan(4pcs) + Panner Butter Masala(half),198
+21,Parrotta(3pcs) + Chicken Curry(half),193
+22,Chicken Fried Rice(half) + Tandoori Qtr,239
+23,Chicken Meals,169
+24,Chettinad Meals,189
+25,Podi Dhosa,60
+26,Onion Oothappam,55
+27,Set Dhosa(2pcs),49
+28,Plain Dosa,50
+29,Masala Dosa,60
+30,Onion Dosa,60
+31,Egg Dosa,60
+32,Omelette,30
+33,Kalaki,30
+34,Egg Podimas,60
+35, Boiled Egg,25
+36,Egg Lapa,110
+37,Chicken Lappa,149
+38,Chicken Fry,176
+39,Nethili Fry,140
+40,Prawn Fry,183
+41,Mushroom Soup,70
+42,Lung Fung Soup,70
+43,Manchow Soup,75
+44,French Onion Soup,75
+45,Hong Kong Soup,80
+46,Sour & Pepper Soup,80
+47,Manchow Soup Chicken,93
+48,Chicken Clear Soup,93
+49,Chicken Hot Sour Soup,93
+50,Chicken Pepper Soup,98
+51,Aloo Tikka,120
+52,Paneer Tikka,190
+53,Chicken Tikka,249
+54,Reshmi Kebab,249
+55,Tangdi Kebab (2 Pcs),190
+56,Tandoori Lollipop,229
+57,Tandoori Chicken,249
+58,Tandoori Chilli Chicken ,249
+59,Kalmi Kebab,249
+60,Hariyali Kebab,249
+61,Malai Kebab,249
+62,Chicken Kali Mirch,249
+63,Chicken Achari,249
+64,Afghani Chicken,259
+65,Chicken Seekh Kebab,249
+66,Grilled Chicken,249
+67,Quarter Grilled Chicken,135
+68,Tandoori Quarter,135
+69,Gobi Masala,123
+70,Aloo Gobi Masala,133
+71,Mixed Veg Curry,144
+72,Paneer Butter Masala,144
+73,Green Peas Masala,110
+74,Mushroom Masala,133
+75,Aloo Masala,115
+76,Kadai Veg Curry,144
+77,Aloo Mattar Masala,135
+78,Kadai Paneer,144
+79,Paneer Mattar Masala,144
+80,Egg Curry,129
+81,Chicken Masala,193
+82,Chettinad Chicken Masala,196
+83,.styles_u-flex-align-center__2rp_8{display:-webkit-box;display:flex;-webkit-box-align:center;align-items:center}.styles_container__2v4C8{color:#000;margin-right:4px}.styles_icon__3I3AV{color:#d40e2b}.styles_icon__3I3AV:first-child{margin-left:4px;font-size:10px}.styles_icon__3I3AV:last-child{margin-left:-3px;font-size:14px}.styles_icon__3I3AV:only-child{margin-left:4px;font-size:14px}Kaadai Chicken,193
+84,Pepper Chicken,196
+85,Hyderabad Chicken,193
+86,Butter Chicken Masala,196
+87,Chicken Shimla Mirchi,193
+88,Chicken Kalimirchi Masala,196
+89,Punjabi Chicken,196
+90,Andhra Chicken Curry,193
+91,Fish Masala,179
+92,Kerala Fish Curry,160
+93,Prawn Masala,193
+94,Dal Fry,98
+95,Dal Tadka,110
+96,Plain Biryani,125
+97,Chicken Biryani,179
+98,Chicken 65 Biryani,189
+99,Chicken Mughal Biryani,189
+100,Chicken Special Biryani,179
+101,Fried Chicken Biryani,184
+102,Fish Biryani,189
+103,Prawn Biryani,220
+104,Egg Biryani,154
+105,Gobi Tikka,120
+106,Mushroom Pepper Fry,128
+107,Steamed Rice,73
+108,Jeera Rice,139
+109,Veg Pulao,149
+110,Cashew Pulao,179
+111,Chicken Pulao,184
+112,Veg Kothu Parotta,98
+113,Veechu Parotta,40
+114,Butter Naan,48
+115,Naan,38
+116,Roti,30
+117,Butter Roti,39
+118,Phulka (2 Pcs),40
+119,Chapati (2 Pcs),46
+120,Kulcha,48
+121,Masala Kulcha,49
+122,Tandoori Paratha,35
+123,Pudina Paratha,48
+124,Paneer Paratha,60
+125,Butter Parotta,48
+126,Aloo Parotta,47
+127,Chilli Parotta,115
+128,Plain Parotta (2 Pcs),49
+129,Egg Veechu Parotta,60
+130,Egg Kothu Parotta,99
+131,Chicken Kothu Parotta,149
+132,Mushroom 65,134
+133,Gobi 65,134
+134,Paneer 65,120
+135,Gobi Manchurian,139
+136,Chilli Gobi,139
+137,Mushroom Manchurian,139
+138,Chilli Mushroom,139
+139,Paneer Manchurian,144
+140,Chilli Paneer,144
+141,Chilli Egg,129
+142,Chicken 65,179
+143,Chicken Lollipop,179
+144,Hakka Chicken Dry,189
+145,Chilli Chicken,189
+146,Dragon Chicken,194
+147,Chicken Manchurian,189
+148,Garlic Chicken,189
+149,Ginger Chicken,189
+150,Chilli Fish,178
+151,Fish Manchurian,178
+152,Dragon Fish,188
+153,Fish & Pepper Salt,178
+154,Fish 65,174
+155,Garlic Prawn,184
+156,Chilli Prawn,184
+157,Hakka Chicken Gravy,189
+158,Veg Fried Rice,133
+159,Veg Mixed Fried Rice,153
+160,Mushroom Fried Rice,149
+161,Paneer Fried Rice,149
+162,Gobi Fried Rice,139
+163,Egg Fried Rice,153
+164,Chicken Fried Rice,179
+165,Shanghai Rice Chicken,179
+166,Crispy Chicken Leg Rice,153
+167,Chicken Chettinad Fried Rice,179
+168,Fish Fried Rice,165
+169,Fish Chettinad Fried Rice,169
+170,Prawn Fried Rice,190
+171,Prawn Chettinad Fried Rice,194
+172,Mixed Fried Rice,210
+173,CM Special Chilli Chicken Fried Rice,179
+174,CM Special Chicken Tandoori Fried Rice,199
+175,Chicken Noodles,179
+176,Paneer Noodles,135
+177,Gobi Noodles,135
+178,Mushroom Noodles,135
+179,Egg Noodles,135
+180,Veg Noodles,110
+181,Veg Mixed Noodles,140
+182,Chicken Schezwan Noodles,194
+183,Fish Noodles,155
+184,Prawn Noodles,190
+185,Mixed Noodles (Non Veg),210
+186,Cm Combo 1              ,419
+187,Cm Combo 3              ,447
+188,Cm Combo 4                 ,408
+189,Cm Combo 5        ,459
+190,Cm Combo 6        ,339
+191,Cm Combo 7          ,319
