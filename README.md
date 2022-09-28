@@ -12,4 +12,4 @@ Web Scrapping is the process of extracting the data from website using HTML stuc
 
 Link of the website: https://www.swiggy.com/restaurants/cm-briyani-manapakkam-chennai-19205
 
-**CSV file information:** The above csv file having the data which i have scrapped from the website
+**CSV file information:** The above csv file having the data which I have scrapped from the website
